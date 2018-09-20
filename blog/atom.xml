@@ -5,7 +5,7 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>Johandra's Work </title>
-	<link href="http://johandrav4765@afsenyc.org.github.io/blog/atom.xml" rel="self"/>
+	<link href="http://johandrav4765.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://johandrav4765.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://hankquinlan.github.io/blog</id>
