@@ -13,5 +13,4 @@ date: 2018-10-18
 
 
 
-
-![GitHub Log](/images/https://data.whicdn.com/images/76337439/original.gif)
+![Alt Text]( https://data.whicdn.com/images/76337439/original.gif)
