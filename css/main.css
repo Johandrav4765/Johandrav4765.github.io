@@ -1,4 +1,9 @@
 body {
+       background-image: url("http://ekladata.com/9hRLakihmVz4vyUSqNKnG1gwLwo.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: 200px;
+    background-attachment: fixed;
     margin: 60px auto;
     width: 70%;
 }
