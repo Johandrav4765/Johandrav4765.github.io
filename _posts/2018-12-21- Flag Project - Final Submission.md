@@ -3,8 +3,7 @@ layout: post
 title: "Flag Project - Final Submission"
 date: 2018-12-21
 ---
-
-## Flag of _insert your country_ by _insert your name_
+# Flag of pakistan
 
 ## Describe your program
 
