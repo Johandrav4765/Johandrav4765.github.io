@@ -8,6 +8,7 @@ On 11/7/18 the class started on a Do-now, We supposed to imagine that we owned a
  
 
 <i>data definitions</i>   data MyCake:
+
                               cake(flavor:: string,
                                    layers:: number,
                                    is-icecream:: Boolean)
@@ -15,6 +16,7 @@ On 11/7/18 the class started on a Do-now, We supposed to imagine that we owned a
                         
  
 <i> dot excessor</i> 
+
                     ```
                        pb-cake = cake("Peanutbutter",3,false
                        pb-cake.flavor
