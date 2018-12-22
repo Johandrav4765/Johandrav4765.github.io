@@ -8,7 +8,7 @@ date: 2018-12-21
 ## Describe your program
 
 -  The program that I currently made represents the flag of Pakistan.
--   The grade I expect is a practitioner, because I worked really hard on it and asked peers for advice about it.
+-   The grade I expect is a professional, because I worked really hard on it and asked peers for advice about it.
 
 ## Current output
 
@@ -51,16 +51,17 @@ sd = place-image(gc,200,85,fc)
 
 Pakistan = place-image(ah,210,75,sd) 
 
-Simple parts: It provides basic height, width, size , type and color of a shape. It is the template for Combinations. Yet each shape contains it's very own specgic function, the functions well be used later on in the combinations to combine images together and make the flag.
-Combinations: holds functions from simple parts, and create a new function to combine other functions. The function that I used was place-image, this allows me to prserve the shape and size of the shape while letting me put it on top of another shape, which is usual called the background.As I pile each shape in different functions, at some point the final result would lead 
+Simple parts: It has height, width, size , type and color of a shape. It is the template for Combinations. Yet each shape contains it's very own specgic function, the functions well be used later on in the combinations to combine images together and make the flag.
+Combinations: holds functions from simple parts, and create a new function to combine other functions. The function that I used was place-image, this allows me to preserve the shape and size of the shape while letting me put it on top of another shape, which is usually called the background.As I pile each shape in different functions, at some point the final result would lead 
 
 
 * * *
 
--   Explain the code you posted by telling us about each argument.
--   Then tell us how your code section fits into the whole.
+-   Basically, the estimated the height of my flag to be around 280, while the radius of any circle function to be placed at 3/10. Than I decided to work on the simple shapes, each representing a specfic color and size. After that I decided to combine the shapes, it was a very slow process. Lastly, I finally got the result of a pakistan flag.
+
+-  Each code section is an abstraction of the big picture, which is the pakistan flag. each sections corresponds to a step that enables me to create the flag.Pakistan Flag is the bignning stage, Simple Parts is the middle stage and Combination of simple parts is the final one.
  
-<!--- Delete this comment and add your writing -->
+
 
 
 ## Program code
