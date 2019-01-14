@@ -2,10 +2,10 @@ body {
        background-image: url("https://www.desktopbackground.org/p/2015/03/11/915592_one-piece-backgrounds-wallpapers-10375-hd-wallpapers-site_1920x1080_h.png");
     background-repeat: no-repeat;
     background-position: center;
-    margin-right: 200px;
+    margin-right: 800px;
     background-attachment: fixed;
     margin: 60px auto;
-    width: 70%;
+    width: 80%;
 }
 nav ul, footer ul {
     font-family:"Comic Sans MS", cursive, sans-serif;
