@@ -2,7 +2,7 @@ body {
        background-image: url("https://www.desktopbackground.org/p/2015/03/11/915592_one-piece-backgrounds-wallpapers-10375-hd-wallpapers-site_1920x1080_h.png");
     background-repeat: no-repeat;
     background-position: center;
-    margin-right: 2800px;
+    margin-right: 200px;
     background-attachment: fixed;
     margin: 60px auto;
     width: 70%;
@@ -19,7 +19,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #f26d6d;
+    color: #f5c0f7;
 }
 a:hover {
     text-decoration: underline;
@@ -33,7 +33,7 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #f90000;
+    color: ##CCCCFF;
 }
 footer {
     border-top: 1px solid #d0ea9f;
