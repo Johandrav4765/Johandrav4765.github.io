@@ -12,6 +12,7 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+       
 }
 nav ul li, footer ul li {
     display: inline;
@@ -29,6 +30,7 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:"Comic Sans MS", cursive, sans-serif;
+    color: #FFFFFF
 }
 p {
     font-size: 1.5em;
