@@ -30,12 +30,12 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:"Comic Sans MS", cursive, sans-serif;
-    color: #00FFFF
+    color: #FFC0C0
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #00FFFF;
+    color: #FFC0C0;
 }
 footer {
     border-top: 1px solid #d0ea9f;
